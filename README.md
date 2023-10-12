@@ -7,6 +7,8 @@ When I would look for Software Engineering roles I'd often look for mock intervi
 
 (Mostly built during my recent Youtube [livestream](https://www.youtube.com/watch?v=8DA4CpEgtno))
 
+![Screen Shot 2023-10-12 at 12 35 04 AM](https://github.com/jawerty/10x-Interview-Buddy/assets/1999719/35529b2b-25ff-4873-ba20-3d9b06188f96)
+
 # How it was made
 The frontend was built in python with [streamlit](https://streamlit.io/) which I discovered a week ago and have become a fan.
 
