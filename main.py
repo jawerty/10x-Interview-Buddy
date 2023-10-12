@@ -9,6 +9,11 @@ from PIL import Image
 
 import streamlit as st
 
+st.set_page_config(
+	page_title='10x Interview Buddy - Instant SWE Mock Interview Questions From Job Descriptions',
+	page_icon="👨‍💻"                
+)
+
 loading_image = Image.open('./bean-eater.gif')
 
 API_KEY = os.getenv('API_KEY')
